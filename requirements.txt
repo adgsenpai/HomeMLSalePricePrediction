@@ -3,3 +3,6 @@ pandas
 sklearn
 tensorflow
 keras
+pydot
+graphviz
+seaborn
